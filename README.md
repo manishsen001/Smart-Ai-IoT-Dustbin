@@ -5,7 +5,7 @@ This project is an IoT-based Smart Dustbin using:
 - Raspberry Pi
 - Ultrasonic Sensor (HC-SR04)
 - Servo Motor
-- Load Cell (optional)
+- Load Cell 
 - Machine Learning (trash classification)
 - MQTT IoT connectivity
 
@@ -13,5 +13,5 @@ Features:
 - Auto-open lid when a user comes near
 - Detects fill level
 - Detects weight of garbage
-- Sends data to cloud (MQTT)
-- Classifies trash type (organic/plastic/paper)
+- Sends data to cloud 
+- Classifies trash type 
